@@ -1,0 +1,7 @@
+#!/bin/bash
+
+java -jar target/dataexporter-1.0-jar-with-dependencies.jar "mongodb://familyfeudrg:xirdj70pzEvj8sb0PGEqOh3nve3SwQXOpyCOtdy4PgEEaC8mMNkRNycdlzOJ4QXTxxVqdVzr3WQvaOdzdxGJ7g==@familyfeudrg.documents.azure.com:10255/?ssl=true&replicaSet=globaldb" "3-answers"
+java -jar target/dataexporter-1.0-jar-with-dependencies.jar "mongodb://familyfeudrg:xirdj70pzEvj8sb0PGEqOh3nve3SwQXOpyCOtdy4PgEEaC8mMNkRNycdlzOJ4QXTxxVqdVzr3WQvaOdzdxGJ7g==@familyfeudrg.documents.azure.com:10255/?ssl=true&replicaSet=globaldb" "4-answers"
+java -jar target/dataexporter-1.0-jar-with-dependencies.jar "mongodb://familyfeudrg:xirdj70pzEvj8sb0PGEqOh3nve3SwQXOpyCOtdy4PgEEaC8mMNkRNycdlzOJ4QXTxxVqdVzr3WQvaOdzdxGJ7g==@familyfeudrg.documents.azure.com:10255/?ssl=true&replicaSet=globaldb" "5-answers"
+java -jar target/dataexporter-1.0-jar-with-dependencies.jar "mongodb://familyfeudrg:xirdj70pzEvj8sb0PGEqOh3nve3SwQXOpyCOtdy4PgEEaC8mMNkRNycdlzOJ4QXTxxVqdVzr3WQvaOdzdxGJ7g==@familyfeudrg.documents.azure.com:10255/?ssl=true&replicaSet=globaldb" "6-answers"
+java -jar target/dataexporter-1.0-jar-with-dependencies.jar "mongodb://familyfeudrg:xirdj70pzEvj8sb0PGEqOh3nve3SwQXOpyCOtdy4PgEEaC8mMNkRNycdlzOJ4QXTxxVqdVzr3WQvaOdzdxGJ7g==@familyfeudrg.documents.azure.com:10255/?ssl=true&replicaSet=globaldb" "7-answers"
